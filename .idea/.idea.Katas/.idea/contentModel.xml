@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\pirha\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_Katas.290409489.00" t="ExcludeRecursive" />
+    <e p="D:\Dev\Katas" t="IncludeFlat">
+      <e p="Katas.sln" t="IncludeFlat" />
+      <e p="Katas.Solutions" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Katas.Solutions.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="SPOJ" t="Include">
+          <e p="RENT" t="Include">
+            <e p="a-in" t="Include" />
+            <e p="a-out" t="Include" />
+            <e p="Rent.cs" t="Include" />
+            <e p="Test.cs" t="Include" />
+          </e>
+        </e>
+        <e p="TestHelpers.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
